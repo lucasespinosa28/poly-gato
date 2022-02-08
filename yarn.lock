@@ -6270,10 +6270,10 @@ mkdirp@^0.5.5, mkdirp@~0.5.1:
   dependencies:
     minimist "^1.2.5"
 
-moralis@^1.2.6:
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/moralis/-/moralis-1.2.6.tgz#bc33a46632b1939a4897e96b3f48896791a4daec"
-  integrity sha512-kCfg1Neu8lJspQBmT4Tij9Bruox2JzXMyyf27B/c4mBvdW71QDaKCLXM3/hG3FGVz4hvKV97Ugn5isx8tqXcLg==
+moralis@^1.2.7:
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/moralis/-/moralis-1.2.7.tgz#d2824fcf93d700b033c94e3abcff23154a5d770c"
+  integrity sha512-MVaGBR+HbOCQmAo/9In1NHxlbathlDh52S6fw0nAij4tS1l9Mp5AklJQX/3hMrR1xpVS49yeqcLZdXZajZfCtw==
   dependencies:
     "@babel/runtime" "7.16.7"
     "@babel/runtime-corejs3" "7.16.8"
