@@ -11,11 +11,11 @@ function Home(){
             </p>
             <Link className='text-2xl font-bold m-4 font-bold underline hover:text-lime-400 my-2' to="/combine">go to Combine</Link>
             <div className='flex  justify-center'>
-            <img className="max-w-[27em]" src="./0.png" alt="cat" />
-                <img className="max-w-[5em]" src="./plus.svg" alt="green plus symbol" />
-                <img className="max-w-[27em]" src="./54.png" alt="hood" />
-                <img className="max-w-[5em]" src="./equal.svg" alt="green equal symbol" />
-                <img className="max-w-[27em]" src="./5400.png" alt="cat with hood" />
+            <img className="max-w-[27em]" src="./poly-gato/0.png" alt="cat" />
+                <img className="max-w-[5em]" src="./poly-gato/plus.svg" alt="green plus symbol" />
+                <img className="max-w-[27em]" src="./poly-gato/54.png" alt="hood" />
+                <img className="max-w-[5em]" src="./poly-gato/equal.svg" alt="green equal symbol" />
+                <img className="max-w-[27em]" src="./poly-gato/5400.png" alt="cat with hood" />
             </div>
                 <Mint />
         </div>

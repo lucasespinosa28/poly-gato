@@ -13,7 +13,7 @@ function App() {
         <Menu />
         <div className=" content-center my-4 ">
           <Routes>
-              <Route path="/poly-gato/*" element={<Home />} />
+              <Route path="/poly-gato" element={<Home />} />
               <Route path="/poly-gato/combine" element={<Combine />} />
               <Route path="/poly-gato/collection" element={<Collection />} />
           </Routes>     
