@@ -1,7 +1,7 @@
 {
   "name": "random-nft",
   "version": "0.1.0",
-  "homepage": "https://lucasespinosa28.github.io",
+  "homepage": "https://lucasespinosa28.github.io/poly-gato",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
