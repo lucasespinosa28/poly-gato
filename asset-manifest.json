@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/poly-gato/static/css/main.f4ce1bab.css",
-    "main.js": "/poly-gato/static/js/main.43b230ab.js",
+    "main.js": "/poly-gato/static/js/main.c4bd52c9.js",
     "static/js/787.74d31417.chunk.js": "/poly-gato/static/js/787.74d31417.chunk.js",
     "index.html": "/poly-gato/index.html",
     "main.f4ce1bab.css.map": "/poly-gato/static/css/main.f4ce1bab.css.map",
-    "main.43b230ab.js.map": "/poly-gato/static/js/main.43b230ab.js.map",
+    "main.c4bd52c9.js.map": "/poly-gato/static/js/main.c4bd52c9.js.map",
     "787.74d31417.chunk.js.map": "/poly-gato/static/js/787.74d31417.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4ce1bab.css",
-    "static/js/main.43b230ab.js"
+    "static/js/main.c4bd52c9.js"
   ]
 }
