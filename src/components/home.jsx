@@ -10,13 +10,13 @@ function Home(){
             <p className="text-2xl font-bold m-4">Mint random cats and hoods after getting one type of each,  
             </p>
             <Link className='text-2xl font-bold m-4 font-bold underline hover:text-lime-400 my-2' to="/combine">go to Combine</Link>
-            <li>cat</li>
-            <li>
-                <img className="max-w-[2em]" src="./plus.svg" alt="green plus symbol" />
-            </li>
-            <li>hood</li>
-                <img className="max-w-[2em]" src="./equal.svg" alt="green equal symbol" />
-            <li>cool cat</li>
+            <div className='flex  justify-center'>
+            <img className="max-w-[27em]" src="./0.png" alt="cat" />
+                <img className="max-w-[5em]" src="./plus.svg" alt="green plus symbol" />
+                <img className="max-w-[27em]" src="./54.png" alt="hood" />
+                <img className="max-w-[5em]" src="./equal.svg" alt="green equal symbol" />
+                <img className="max-w-[27em]" src="./5400.png" alt="cat with hood" />
+            </div>
                 <Mint />
         </div>
     )

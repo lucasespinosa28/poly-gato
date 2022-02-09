@@ -8,10 +8,10 @@ import Collection from './components/collection'
 
 function App() {
   return (
-    <div className='grid justify-items-center'>
+    <div className=' grid justify-items-center'>
       <div className="text-slate-50  w-6/12 content-center">
         <Menu />
-        <div className="bg-stone-800 content-center my-4 rounded-sm outline outline-offset-2 outline-1">
+        <div className=" content-center my-4 ">
           <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/combine" element={<Combine />} />

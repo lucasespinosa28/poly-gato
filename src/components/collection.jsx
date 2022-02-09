@@ -46,13 +46,6 @@ function Collection(){
         return (
           <div>
             {error && <Error data={error} />}
-            <div
-              className='bg-orange-400 hover:bg-orange-500 border-b-4 border-orange-600 outline outline-offset-2 outline-1 cursor-pointer' 
-              onClick={() => getNFTBalances()}>
-              <div className='text-slate-800 mx-2 text-center'>
-                Refetch NFTBalances
-              </div>
-            </div>
             <div className='grid grid-cols-3 gap-2'>
             {data && data.result.map((element) => {
               console.log(element.token_address)
@@ -67,6 +60,13 @@ function Collection(){
                   }
                 })}
               </div>
+            <div
+              className='bg-orange-400 hover:bg-orange-500 border-b-4 border-orange-600 outline outline-offset-2 outline-1 cursor-pointer' 
+              onClick={() => getNFTBalances()}>
+              <div className='text-slate-800 mx-2 text-center'>
+                Refetch NFTBalances
+              </div>
+            </div>
           </div>
         );
       };
